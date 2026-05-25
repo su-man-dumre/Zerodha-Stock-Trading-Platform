@@ -33,7 +33,7 @@ function Stats() {
         <div className="col-6 p-5">
           <img
             src="media/images/images/ecosystem.png"
-            style={{ width: "80%" }}
+            style={{ width: "80%" }} alt="image"
           ></img>
           <div classNmae='text-center'>
             <a href='' className='mx-5' style={{textDecoration:"none"}}>Explore our products <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
